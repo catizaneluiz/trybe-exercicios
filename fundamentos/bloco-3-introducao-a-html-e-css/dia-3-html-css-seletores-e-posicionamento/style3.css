@@ -1,0 +1,31 @@
+div:hover {
+    border: 6px solid black
+}
+
+#cp {
+    background-color: red;
+    color: wheat;
+}
+
+#cs {
+    background-color: rgb(255, 153, 0);
+    color: white;
+}
+
+#cc {
+    background-color: rgb(6, 177, 43);
+    color: blue;
+    height: 50px;
+    font-style: italic;
+}
+
+#ce {
+    background-color: rgb(111, 1, 201);
+    color: beige;
+}
+
+#cl {
+    background-color: rgb(203, 202, 255);
+    color: aquamarine;
+    font-style: italic;
+}
